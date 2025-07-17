@@ -1,0 +1,128 @@
+{
+    "root": {
+        "data": {
+            "id": "dbegig6mb940",
+            "created": 1752768315725,
+            "text": "main.jsx"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "dbegixbcgfk0",
+                    "created": 1752768353016,
+                    "text": "React.SctrictMode"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "dbegj6gwt280",
+                            "created": 1752768372944,
+                            "text": "Provider"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "dbegjsgyl8o0",
+                                    "created": 1752768420836,
+                                    "text": "App.jsx"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "dbegjyf46740",
+                                            "created": 1752768433785,
+                                            "text": "properties",
+                                            "expandState": "collapse"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "dbeglnmojsw0",
+                                                    "created": 1752768567026,
+                                                    "text": "showVenue: false"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "dbegk3ze1zs0",
+                                            "created": 1752768445895,
+                                            "text": "methods",
+                                            "expandState": "collapse"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "dbeglt14krk0",
+                                                    "created": 1752768578784,
+                                                    "text": "setShowVenue(...)"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "dbegm3gw8e00",
+                                                    "created": 1752768601505,
+                                                    "text": "handleGetStarted(...)"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "dbegk7zomq00",
+                                            "created": 1752768454621,
+                                            "text": "html"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "dbegn4r3x880",
+                                                    "created": 1752768682664,
+                                                    "text": "header"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "dbegnfa7hyo0",
+                                                            "created": 1752768705586,
+                                                            "text": "button"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "dbegnl6ltsw0",
+                                                                    "created": 1752768718429,
+                                                                    "text": "Get Started"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "dbego7yznns0",
+                                                            "created": 1752768768035,
+                                                            "text": "ConferenceEvent"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "snow-compact",
+    "version": "1.4.43"
+}
